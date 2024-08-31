@@ -1,5 +1,7 @@
 ## Hi 👋 I am Muhammed Mufeed K M
 ![Mufeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufeedkm010&show_icons=true&theme=transparent)
+![Mufeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufeedkm&show_icons=true&bg_color=00000000)
+
 <!--
 **Mufeedkm010/Mufeedkm010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
