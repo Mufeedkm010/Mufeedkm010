@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Muhammed Mufeed K M
 
+![Profile Views](https://komarev.com/ghpvc/?username=mufeedkm010&color=blue)
 ---
 
 ## 🚀 About Me
