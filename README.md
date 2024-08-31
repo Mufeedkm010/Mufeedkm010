@@ -51,7 +51,7 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufeedkm010&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Mufeed's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mufeedkm010&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Mufeed's GitHub stats" height="180" width="550" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeedkm010&layout=compact&theme=radical" alt="Top Langs" height="180" />
 </p>
 <p align="center">
