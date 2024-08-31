@@ -1,60 +1,38 @@
-# Hi there 👋 I'm Muhammed Mufeed K M
+<h1 align="center">Hi there 👋 I'm Muhammed Mufeed K M</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mufeedkm010&color=blue)
+
 ---
 
-## 🚀 About Me
+<h3 align="center"> <font face="Verdana" color="black"> I am a Tech and Coding enthusiast and a Design Thinker from India. I have a deep interest in Full Stack Development, particularly in creating intuitive and dynamic user experiences through modern web technologies. </font> </h3>
 
-I'm a passionate developer with a focus on building responsive web applications. Currently, I'm a final-year student working on honing my skills in frontend development, particularly with React and UI/UX design.
+
+
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
+---
+- 🌱 I’m currently learning Data Structure and Algorithm,Full Stack
+
+- 📫 How to reach me: mufeedkm010@gmail.com
+
+- 📄 Resume: [Mufeedkm.pdf](https://drive.google.com/file/d/1X09VSXjJaReWFxKBRC_YZzm0ypTmoMXl/view?usp=drivesdk)
+
+- 🧑‍💻 LeetCode: [LeetCode Profile](https://leetcode.com/mufeedkm/)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
----
-
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mufeedkm010&show_icons=true&theme=transparent" alt="Mufeed's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeedkm010&layout=compact&theme=transparent" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
 
 ---
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mufeedkm010/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/mufeedkm010)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mufeedkm010)
+<p align="left"> <a href="https://www.linkedin.com/in/mufeedkm010/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/mufeedkm010" target="_blank"> <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://twitter.com/mufeed010" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://leetcode.com/mufeedkm/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
 
+---
 
+## 📈 GitHub Stats
 
-
-<!--
-**Mufeedkm010/Mufeedkm010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mufeedkm010&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Mufeed's GitHub stats" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeedkm010&layout=compact&theme=radical" alt="Top Langs" width="400" /> </p>
