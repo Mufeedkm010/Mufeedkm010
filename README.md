@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 ---
-- 🌱 I’m currently learning: Data Structure and Algorithm,Full Stack.
+- 🌱 I’m currently learning: Full stack, Data Structures and Algorithm.
 
 -  🔨 I am currently working on: React projects.
 
