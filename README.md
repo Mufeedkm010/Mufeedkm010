@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: mufeedkm010@gmail.com
 
-- 📄 Resume: [CV](https://drive.google.com/file/d/1GD1Adb-8egW-K4yZPtbpMVLMFoPbbA-5/view?usp=drive_link)
+- 📄 Resume: [CV.pdf](https://drive.google.com/file/d/1bSeVk1kbAL6HezYAObviAwBQ3hkGr1RJ/view?usp=drive_link)
 
 - 🧑‍💻 LeetCode: [LeetCode Profile](https://leetcode.com/mufeedkm/)
 
