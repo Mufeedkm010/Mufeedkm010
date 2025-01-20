@@ -57,20 +57,23 @@
 
 ## 🔗 Let's Connect
 
+## 🔗 Let's Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mufeedkm010/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="LinkedIn" width="48" />
   </a>
   <a href="https://leetcode.com/mufeedkm/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/mufeedkm010" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="48" />
   </a>
   <a href="https://www.instagram.com/muf_e.e_d_km/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="Instagram" width="48" />
+  </a>
+   <a href="https://github.com/mufeedkm010" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/null/github.png" alt="GitHub" width="48" />
   </a>
 </p>
+
 
 
 
