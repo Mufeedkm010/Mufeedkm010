@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋 I'm Muhammed Mufeed K M</h1>
 
 <h3 align="center">
-🛡️ Cybersecurity Enthusiast | 🔎 Penetration Tester | 🚨 SOC Builder
+🛡️ Cybersecurity Enthusiast | 👨‍💻 Ethical Hacker | 🔎 Penetration Tester | 🚨 SOC Builder
 </h3>
+
+<p align="center">
+<a href="mailto:mufeedkm010@gmail.com">mufeedkm010@gmail.com</a> • +91 9342934469
+</p>
 
 <p align="center">
 Turning vulnerabilities into learning opportunities and building secure systems.
@@ -12,16 +16,17 @@ Turning vulnerabilities into learning opportunities and building secure systems.
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
----
+
 
 ## 🧠 About Me
 
-- 🛡️ Passionate about **Ethical Hacking & Cyber Defense**
-- 🔎 Focused on **Web Application Penetration Testing**
-- 🚨 Building **SOC & SIEM-style monitoring dashboards**
-- 🧪 Actively practicing vulnerability assessment & exploitation labs
-- 💻 Strong foundation in programming & networking
-- 📍 Based in India
+- 🛡️ Passionate about Ethical Hacking, Penetration Testing & Cyber Defense  
+- 🔎 Focused on Web Application Security & Vulnerability Assessment  
+- 🚨 Building SOC & SIEM-style monitoring dashboards  
+- 🧪 Practicing real-world exploitation & security labs  
+- 💻 Strong foundation in programming & networking  
+- 📄 **Resume:** [Download CV](https://drive.google.com/file/d/1Iz6i-gKSLlS75ICa0I4RO2a_epoWkb3Q/view?usp=drive_link)  
+- 📍 Based in India  
 
 ---
 
@@ -37,15 +42,19 @@ Turning vulnerabilities into learning opportunities and building secure systems.
 
 ---
 
-### 🧰 Security Tools
+### 🧰 Security Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
@@ -55,7 +64,8 @@ Turning vulnerabilities into learning opportunities and building secure systems.
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
@@ -63,6 +73,7 @@ Turning vulnerabilities into learning opportunities and building secure systems.
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
