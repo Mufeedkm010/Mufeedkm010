@@ -42,7 +42,7 @@ Currently working in cybersecurity research and R&D, exploring offensive securit
 ### Cybersecurity & Security Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,aws,git,github,vscode,bash,postman,stackoverflow" />
 </p>
 
 | Category | Tools & Technologies |
@@ -62,7 +62,7 @@ Currently working in cybersecurity research and R&D, exploring offensive securit
 
 ### 01. fronX — AI-Powered SIEM & SOC Platform
 
-[![Project](https://img.shields.io/badge/Project-fronX-00C9A7?style=flat-square)](https://github.com/Mufeedkm010/fronX-SOC)
+[![Project](https://img.shields.io/badge/View_Project-fronX-00C9A7?style=for-the-badge&logo=github)](https://github.com/Mufeedkm010/fronX-SOC)
 
 A security monitoring platform designed to collect, analyze, and detect suspicious activities using an AI-assisted threat monitoring engine.
 
@@ -75,23 +75,37 @@ A security monitoring platform designed to collect, analyze, and detect suspicio
 
 **Tech:** Python, Flask, Flask-SocketIO, Isolation Forest, Chart.js.
 
+---
+
 ### 02. KickLink — Python OSINT Tool
+
+[![Project](https://img.shields.io/badge/View_Project-KickLink-00C9A7?style=for-the-badge&logo=github)](YOUR_KICKLINK_REPOSITORY_URL)
 
 A Python-based OSINT project designed to assist with information gathering and reconnaissance.
 
 **Focus:** Open-source intelligence, reconnaissance, Python automation.
 
+---
+
 ### 03. Android Exploit — Android Security Research
+
+[![Project](https://img.shields.io/badge/View_Project-Android_Exploit-00C9A7?style=for-the-badge&logo=github)](YOUR_ANDROID_EXPLOIT_REPOSITORY_URL)
 
 A customized Android security testing project developed for learning and authorized Android penetration testing.
 
 **Focus:** Android security, ADB, device analysis, security testing.
 
+---
+
 ### 04. Quishing — QR Security Awareness Tool
+
+[![Project](https://img.shields.io/badge/View_Project-Quishing-00C9A7?style=for-the-badge&logo=github)](YOUR_QUISHING_REPOSITORY_URL)
 
 A QR-code-based phishing awareness demonstration platform designed for authorized security awareness sessions.
 
 **Focus:** QR security awareness, simulated phishing scenarios, Python, web technologies.
+
+---
 
 ---
 
@@ -105,18 +119,6 @@ A QR-code-based phishing awareness demonstration platform designed for authorize
 | Android Security Testing | Threat Detection |
 | OWASP Top 10 | Incident Response |
 | OSINT | MITRE ATT&CK |
-
----
-
-## 🏴‍☠️ Cybersecurity Learning Journey
-
-- TryHackMe practical labs.
-- Capture The Flag (CTF) challenges.
-- Linux privilege escalation.
-- Web application vulnerability testing.
-- Network penetration testing.
-- Android application security.
-- Ethical hacking methodologies.
 
 ---
 
